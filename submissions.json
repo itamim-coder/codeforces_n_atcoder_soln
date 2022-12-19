@@ -1,4 +1,21 @@
 {
+  "CF185954626": {
+    "contest_id": 1146,
+    "language": "Clang++20 Diagnostics",
+    "path": "codeforces\\1146\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Love \"A\"",
+    "problem_url": "https://codeforces.com/contest/1146/problem/A",
+    "submission_id": "CF185954626",
+    "submission_url": "https://codeforces.com/contest/1146/submission/185954626",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/19/2022 19:39"
+  },
   "CF185954738": {
     "contest_id": 1760,
     "language": "GNU C++17",
